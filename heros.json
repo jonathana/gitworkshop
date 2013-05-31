@@ -4,6 +4,8 @@
     { "name" : "Batman" },
     { "name" : "Lord Tywin Lannister" }
     { "name" : "Hercules" },
-    { "name" : "Superman" }
+    { "name" : "Superman" },
+    {"name": "antman"},
+    {"name":"test"}
   ]
 }
